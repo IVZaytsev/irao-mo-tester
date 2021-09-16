@@ -34,10 +34,15 @@
     2. Подключите купленный\собранный прибор к ПК и установите нужные драйвера (лежат в папке */drivers*)
     3. Откройте Диспетчер устройств Windows и убедитесь, что PN532 есть в списке последовательных портов (COM3, COM4, COM5 и т.д.)
 	<p align="center"><img src="https://github.com/IVZaytsev/irao-mo-tester/blob/main/readme/pn532.png?raw=true" alt="Модуль чтения NFC-меток PN532"/></p>
+	
 3. Запустите скрипт /run.py и убедитесь, что ваш архив был найден, а обходы загружены
+
 <p align="center"><img src="https://github.com/IVZaytsev/irao-mo-tester/blob/main/readme/mo-tester-1.png?raw=true" alt="Корректная работа скрипта"/></p>
-4. Перейдите по адресу [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
+
+4. Перейдите по адресу [http://127.0.0.1:8080/](http://127.0.0.1:8080/):
+
 <p align="center"><img src="https://github.com/IVZaytsev/irao-mo-tester/blob/main/readme/mo-tester-2.png?raw=true" alt="Веб-интерфейс"/></p>
+
 5. Приложите пустую NFC-метку к устройству и на открывшейся странице нажмите кнопку '**Отправить**'
 
 Если всё сделано правильно, вы получите копию нужной NFC-метки.
