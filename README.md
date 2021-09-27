@@ -3,8 +3,8 @@
 
 ## Описание
  Скрипт позволяет повторно записать NFC-метки маршрутов обхода в случае их повреждения или утраты. 
-
-![Alt-текст](https://windowsonly.net/wp-content/uploads/2014/03/Windows-Only-Logo-New-800px.png "Только для Windows 10!")
+ 
+<img src="https://windowsonly.net/wp-content/uploads/2014/03/Windows-Only-Logo-New-800px.png" width="400">
 ## Требования
  * Операционная система: Microsoft Windows 10
  * Считыватель NFC-меток PN532, подключенный через USB-TTL переходник
