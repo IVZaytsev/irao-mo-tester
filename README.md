@@ -11,10 +11,10 @@
  * Считыватель NFC-меток PN532, подключенный через USB-TTL переходник
  * Выгруженный архив с обходами АИС "Мобильный Обходчик" формата **[Обходы_XX-XX-XXXX_XX-XX-XX-XXX]-outpack.zip**
  * Стандартные библиотеки Python 3.9:
-  * json
-  * zipfile
-  * subprocess
-  * http.server
+   * json
+   * zipfile
+   * subprocess
+   * http.server
 
 ## Используемые программы
  * Библиотека [LibUSB](https://github.com/libusb/libusb) [v1.0.24];
